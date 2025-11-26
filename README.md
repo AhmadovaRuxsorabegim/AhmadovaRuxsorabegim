@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Smart School and BookPalace
-- 🌱 I’m currently learning C++, Html, Css and Desktop development
-- 💬 Ask me about C++, Html..
+- 🌱 I’m currently learning Desktop development and Frontend developer
+- 💬 Ask me about C++, Html, Css..
